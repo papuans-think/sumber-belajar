@@ -34,7 +34,7 @@ Kumpulan sumber belajar sesuai Teknologi dan pastikan sumbernya benar-benar grat
 | **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [belajarpython.com](https://uidesigndaily.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
-| [belajarKotlin.com](https://developer.android.com/courses/android-basics-kotlin/course?hl=id)                                                            | Open Source Kursus Bahasa pemrograman Kotlin                             |
+| [belajarKotlin.com](https://developer.android.com/kotlin/learn?hl=id)                                                            | Open Source Kursus Bahasa pemrograman Kotlin                             |
 | [belajarAndroid.com](https://developer.android.com/kotlin/androidbasics?hl=id)                                                            | Open Source Belajar dasar - dasar pengembangan Aplikasi Android|
 
  
