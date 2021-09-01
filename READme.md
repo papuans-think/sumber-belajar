@@ -3,7 +3,6 @@
 - [Jalur Belajar](#jalur-belajar)
 - [Sumber Belajar](#sumber-belajar)
     - [Python](#python)
-    - [kotlin](#kotlin)
 
 # Jalur Belajar 
 Kumpulan Jalur belajar Programming sesuai Spesialisasi
@@ -35,12 +34,7 @@ Kumpulan sumber belajar sesuai Teknologi dan pastikan sumbernya benar-benar grat
 | **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [belajarpython.com](https://uidesigndaily.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
-
-
-
-| **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [belajar Kotlin Dasar](https://developer.android.com/courses/android-basics-kotlin/course?hl=id)                                                            | Open Source Kotlin Programming Tutorial Silahkan masuk Webnya dan ubah Bahasa ke Indonesia                               |
+| [belajarKotlin.com](https://developer.android.com/courses/android-basics-kotlin/course?hl=id)                                                            | Open Source Kotlin kursus Silahkan masuk Webnya dan ubah Bahasa ke Bahasa Indonesia                                 |
 
  
 
