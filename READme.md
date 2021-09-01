@@ -2,7 +2,7 @@
  
     - Jalur Belajar (https://https://roadmap.sh/roadmaps/backend.png)
 
-### Apa saja yang dipelajari?
+#### Apa saja yang dipelajari?
 * __
 * __
 * __
@@ -12,7 +12,7 @@
  
     - Jalur Belajar (https://https://roadmap.sh/roadmaps/roadmap.png)
 
-### Apa saja yang dipelajari?
-* __
-* __
-* __
+#### Apa saja yang dipelajari?
+* HTML
+* CSS
+* Javascript
