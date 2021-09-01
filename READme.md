@@ -1,5 +1,3 @@
-#### Silahkan membaca [`panduan kontribusi`](./contributing.md) sebelum menambahkan sumber belajar/roadmap baru.
-
 ## Daftar Isi
 
 - [Jalur Belajar](#jalur-belajar)
@@ -31,3 +29,6 @@ Websites and resources with modern UI components in different formats such as PS
     <b><a href="#table-of-contents">↥ Kembali ke Atas</a></b>
 </div>
 
+<br>
+
+#### Silahkan membaca [`panduan kontribusi`](./contributing.md) sebelum menambahkan sumber belajar/roadmap baru.
