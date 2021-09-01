@@ -1,4 +1,3 @@
-## Kumpulan sumber dan jalur Belajar Programming ∘ Papuans Think
 <br>
 
 ## Backend Developer
