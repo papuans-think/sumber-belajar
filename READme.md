@@ -28,6 +28,6 @@ Websites and resources with modern UI components in different formats such as PS
 
 <br><br>
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Kembali ke Atas</a></b>
 </div>
 
