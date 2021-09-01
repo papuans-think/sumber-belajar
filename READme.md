@@ -4,8 +4,6 @@
 
 - [Jalur Belajar](#jalur-belajar)
 
-<br>
-
 ## Jalur Belajar 
 Kumpulan Jalur belajar Programming
 
@@ -20,8 +18,6 @@ Kumpulan Jalur belajar Programming
 * [Golang Developer](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap/master/golang-developer-roadmap.png)
 * [Python Developer](https://raw.githubusercontent.com/anatoly-kor/roadmap-python-web-developer/master/images/python-web-developer.png)
 
-<br>
-
 ## UI Graphics
 Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
 
@@ -30,6 +26,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
 
+<br><br>
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
