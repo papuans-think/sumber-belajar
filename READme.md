@@ -16,6 +16,8 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 * [Golang Developer](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap/master/golang-developer-roadmap.png)
 * [Python Developer](https://dev.to/hb/python-developer-roadmap-in-2021-2bmo)
 * [Java Developer](https://1.bp.blogspot.com/-FjTBcYLAALY/YAl9MCwww6I/AAAAAAAAl1E/r2gQ1GjM7xcgHb7DE9M_QNwI5BqgsTNDACLcBGAsYHQ/w1200-h630-p-k-no-nu/2021%2BJava%2BDeveloper%2BRoadMap.png)
+* [Game Developer](https://i.pinimg.com/originals/92/95/ad/9295ad5082e8cac36a92c8b85f076ecc.png)
+* [Ui/Ux Developer Roadmap 2021](https://miro.medium.com/max/2000/1*vpVL0yls-GmNlxB4RwNUqQ.png)
 
 
 ## UI Graphics
