@@ -38,7 +38,7 @@ Kumpulan sumber belajar sesuai Teknologi dan pastikan sumber-sumber tersebut ben
  
 
 <br><br>
-#### Silahkan membaca [`panduan berkontribusi`](./contributing.md) sebelum menambahkan sumber belajar/roadmap baru.           
+#### Silahkan membaca [`panduan berkontribusi`](https://github.com/papuans-think/sumber-belajar/blob/main/contributing.md) sebelum menambahkan sumber belajar/roadmap baru.           
 
 <br><br>
 <div align="right">
