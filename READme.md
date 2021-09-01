@@ -1,4 +1,13 @@
+#### Silahkan membaca [`panduan kontribusi`](./contributing.md) sebelum menambahkan sumber belajar/roadmap baru.
+
+## Daftar Isi
+
+- [Jalur Belajar](#jalur-belajar)
+
+<br>
+
 ## Jalur Belajar 
+Kumpulan Jalur belajar Programming
 
 * [Frontend Developer](https://roadmap.sh/roadmaps/frontend.png)
 * [Backend Developer](https://roadmap.sh/roadmaps/backend.png)
@@ -11,25 +20,17 @@
 * [Golang Developer](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap/master/golang-developer-roadmap.png)
 * [Python Developer](https://raw.githubusercontent.com/anatoly-kor/roadmap-python-web-developer/master/images/python-web-developer.png)
 
-
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
-
-## Table of Contents
-
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Colors](#colors)
+<br>
 
 ## UI Graphics
+Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
 
->Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| **Website**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
 
 <div align="right">
-    <b><a href="#jalur-belajar">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
