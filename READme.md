@@ -30,12 +30,13 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 Kumpulan sumber belajar sesuai Teknologi dan pastikan sumber-sumber tersebut benar-benar gratis.
 
 ## **Python**
+
 | **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [belajarpython.com](https://uidesigndaily.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
+<!-- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 | -->
  
 
 <br><br>
