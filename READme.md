@@ -19,6 +19,7 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 * [Game Developer](https://i.pinimg.com/originals/92/95/ad/9295ad5082e8cac36a92c8b85f076ecc.png)
 * [Ui/Ux Developer Roadmap 2021](https://miro.medium.com/max/2000/1*vpVL0yls-GmNlxB4RwNUqQ.png)
 * [Kotlin Developer](https://kotlinlang.org/docs/images/roadmap-board.png)
+* [React Developer](https://roadmap.sh/roadmaps/react.png)
 
 
 ## UI Graphics
