@@ -42,7 +42,7 @@ Kumpulan sumber belajar sesuai Teknologi dan pastikan sumber-sumber tersebut ben
 
 <br><br>
 <div align="right">
-    <b><a href="#table-of-contents">↥ Kembali ke Atas</a></b>
+    <b><a href="#daftar-isi">↥ Kembali ke Atas</a></b>
 </div>
 
 
