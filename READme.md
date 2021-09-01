@@ -37,7 +37,6 @@ Kumpulan sumber belajar sesuai Teknologi dan pastikan sumbernya benar-benar grat
 | [belajarpython.com](https://uidesigndaily.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
 
 
-## **Kotlin Free Kursus**
 
 | **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
