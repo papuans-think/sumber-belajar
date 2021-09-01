@@ -5,7 +5,7 @@
 - [Jalur Belajar](#jalur-belajar)
 
 ## Jalur Belajar 
-Kumpulan Jalur belajar Programming
+Kumpulan Jalur belajar Programming sesuai Spesialisasi
 
 * [Frontend Developer](https://roadmap.sh/roadmaps/frontend.png)
 * [Backend Developer](https://roadmap.sh/roadmaps/backend.png)
