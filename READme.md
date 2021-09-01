@@ -27,7 +27,7 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 
 
 # Sumber Belajar
-Kumpulan sumber belajar sesuai Teknologi dan pastikan sumbernya benar-benar gratis.
+Kumpulan sumber belajar dan sumbernya benar-benar gratis.
 
 ## **Python**
 
