@@ -16,7 +16,7 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 * [Artificial Inteligence](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 * [Vue JS Developer](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap/master/roadmap.svg)
 * [Golang Developer](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap/master/golang-developer-roadmap.png)
-* [Python Developer](https://raw.githubusercontent.com/anatoly-kor/roadmap-python-web-developer/master/images/python-web-developer.png)
+* [Python Developer](https://dev.to/hb/python-developer-roadmap-in-2021-2bmo)
 
 ## UI Graphics
 Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
