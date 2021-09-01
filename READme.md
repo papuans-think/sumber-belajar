@@ -1,8 +1,10 @@
-## Daftar Isi
+# Daftar Isi
 
 - [Jalur Belajar](#jalur-belajar)
+- [Sumber Belajar](#sumber-belajar)
+    - [Python](#python)
 
-## Jalur Belajar 
+# Jalur Belajar 
 Kumpulan Jalur belajar Programming sesuai Spesialisasi
 
 * [Frontend Developer](https://roadmap.sh/roadmaps/frontend.png)
@@ -24,19 +26,21 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 * [Ethical Hacking](https://github.com/sundowndev/hacker-roadmap)
 
 
-## UI Graphics
-Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
+# Sumber Belajar
+Kumpulan sumber belajar sesuai Teknologi dan pastikan sumber-sumber tersebut benar-benar gratis.
 
-| **Website**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
+## **Python**
+| **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
-| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
+| [belajarpython.com](https://uidesigndaily.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
+ 
+
+<br><br>
+#### Silahkan membaca [`panduan berkontribusi`](./contributing.md) sebelum menambahkan sumber belajar/roadmap baru.           
 
 <br><br>
 <div align="right">
     <b><a href="#table-of-contents">↥ Kembali ke Atas</a></b>
 </div>
 
-<br>
 
-#### Silahkan membaca [`panduan kontribusi`](./contributing.md) sebelum menambahkan sumber belajar/roadmap baru.
