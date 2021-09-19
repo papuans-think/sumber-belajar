@@ -33,7 +33,7 @@ Kumpulan sumber belajar dan sumbernya benar-benar gratis.
 
 | **Sumber**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Keterangan**                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [belajarpython.com](https://uidesigndaily.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
+| [belajarpython.com](https://belajarpython.com/)                                                            | Open Source Indonesian Python Programming Tutorial Website                                 |
 
  
 
