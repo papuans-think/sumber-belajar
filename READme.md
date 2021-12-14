@@ -22,8 +22,9 @@ Kumpulan Jalur belajar Programming sesuai Spesialisasi
 * [UI/UX Developer](https://miro.medium.com/max/2000/1*vpVL0yls-GmNlxB4RwNUqQ.png)
 * [Kotlin Developer](https://kotlinlang.org/docs/images/roadmap-board.png)
 * [React Developer](https://roadmap.sh/roadmaps/react.png)
-* [Software Defined Network](https://github.com/zufardhiyaulhaq/sdn-study-roadmap)
 * [Ethical Hacking](https://github.com/sundowndev/hacker-roadmap)
+* [Network Engineer](https://raw.githubusercontent.com/abakuz/neteng-roadmap/master/img/NetengRoadmap_v12.png)
+* [Software Defined Network](https://github.com/zufardhiyaulhaq/sdn-study-roadmap)
 
 
 # Sumber Belajar
